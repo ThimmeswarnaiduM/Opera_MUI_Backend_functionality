@@ -1,0 +1,3094 @@
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-11T17:50:40
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 175040849
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-11T22:54:35
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 225435354
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-11T23:16:46
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 231646336
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-11T23:19:16
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 231916415
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-11T23:20:23
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 232023181
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-11T23:22:47
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 232247440
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-11T23:26:31
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 232631618
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-11T23:32:41
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 233241408
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-12T11:05:30
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 110530004
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-12T11:10:53
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 111054183
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-12T12:09:48
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 120948544
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-12T12:11:51
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121151681
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-15T12:41:53
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 124153354
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-15T13:08:52
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 130852408
+UserName: tajmanager
+Password: welcome
+authorization: Basic b2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-15T13:20:43
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 132043527
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-15T15:35:55
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 153555130
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-15T17:24:55
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 172455743
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-16T15:53:55
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 155355601
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-16T17:30:56
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173056320
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-16T17:34:56
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173456932
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-16T17:38:21
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173821723
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-16T22:53:00
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 225300450
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T11:59:17
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 115919342
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T12:13:20
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121320916
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T13:14:15
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 131415851
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T13:17:59
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 131800517
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T13:47:12
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 134712933
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T16:10:29
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 161029662
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T16:14:06
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 161406957
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T16:26:18
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 162618717
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T16:28:29
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 162829817
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T16:32:47
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 163247219
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T16:37:10
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 163710982
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T16:37:59
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 163759942
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T16:41:12
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 164113054
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T20:09:38
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 200938788
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T20:49:27
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 204927607
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T20:52:31
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 205231133
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T21:41:09
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 214110183
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T21:57:35
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 215735992
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T22:01:22
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 220122681
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T22:15:42
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 221542742
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-17T22:18:21
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 221821498
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T12:37:43
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 123743930
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T12:41:28
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 124128959
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T12:46:25
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 124625769
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T12:48:48
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 124849578
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T13:00:36
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 130036715
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T13:03:55
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 130355297
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T13:06:32
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 130632804
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T13:33:01
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 133301431
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T13:38:17
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 133817491
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T13:47:27
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 134727387
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T13:56:31
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 135631053
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T13:59:35
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 135935755
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T14:01:36
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 140136779
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T14:04:57
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 140457602
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T14:10:09
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 141009681
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T14:20:45
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 142045972
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T14:27:02
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 142702484
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T14:30:24
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 143024243
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T14:32:10
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 143210980
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T15:02:24
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 150224545
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T15:03:48
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 150349109
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T15:09:45
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 150945485
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T15:17:07
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 151707857
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T15:23:39
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 152340192
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T15:45:30
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 154531118
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T15:49:56
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 154957363
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T15:53:37
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 155337236
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T16:04:49
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 160449199
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T16:10:38
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 161038591
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T16:21:12
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 162112366
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T17:38:02
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173802558
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T17:44:32
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 174432272
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T18:22:05
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 182205126
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T18:48:26
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 184826273
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T18:53:02
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 185302028
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T18:54:01
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 185401158
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T18:58:01
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 185801301
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T19:06:45
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 190645957
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T19:18:24
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 191824480
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T19:36:52
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 193652238
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-18T19:40:03
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 194003519
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T10:03:09
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 100309709
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T10:06:37
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 100637092
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T10:17:29
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 101729037
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T10:30:03
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 103003785
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T12:06:50
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 120650690
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T12:22:52
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 122252762
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T12:28:43
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 122843433
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T12:37:38
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 123738673
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T12:51:52
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 125152676
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:03:03
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 130303567
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:07:33
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 130733990
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:14:47
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 131447129
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:17:00
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 131700245
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:27:26
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 132726031
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:30:49
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 133049309
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:36:24
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 133624382
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:40:11
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 134011108
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:43:00
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 134300221
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:49:30
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 134930700
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T13:51:18
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 135118813
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T14:01:13
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 140113793
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T14:09:31
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 140931103
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T14:41:55
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 144155061
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T14:45:04
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 144504514
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T14:48:24
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 144824675
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T14:51:22
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 145122684
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T14:56:49
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 145649373
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T15:04:59
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 150459515
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T15:06:37
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 150637370
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T15:11:55
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 151155042
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T15:14:01
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 151401481
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T15:14:13
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 151413672
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T15:14:28
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 151428317
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T15:14:47
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 151447321
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-19T16:06:47
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 160647608
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T01:28:06
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 012806506
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T01:35:48
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 013548923
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T01:36:45
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 013645835
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T01:46:16
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 014616427
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T01:46:31
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 014631744
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T02:01:10
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 020110116
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:08:07
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 100807558
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:13:47
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 101347247
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:14:12
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 101412572
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:14:49
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 101449132
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:15:02
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 101502787
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:15:40
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 101540863
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:18:23
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 101823296
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:18:38
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 101838406
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:21:03
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 102103827
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:28:39
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 102839401
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T10:29:01
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 102901792
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:07:10
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 110710177
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:07:32
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 110732904
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:07:37
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 110737501
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:07:44
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 110744764
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:09:32
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 110932339
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:10:49
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 111049178
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:21:43
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 112143546
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:21:56
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 112156508
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:22:29
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 112229351
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:28:43
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 112843832
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:30:34
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 113034645
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:33:40
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 113340829
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:36:45
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 113645019
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:36:54
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 113654256
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:39:02
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 113902229
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:44:22
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 114422541
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:46:08
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 114608218
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:52:51
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 115251676
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:54:11
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 115411083
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T11:59:04
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 115904896
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:06:25
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 120625949
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:12:09
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121209128
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:12:45
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121245857
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:13:02
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121302666
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:13:17
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121317140
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:13:24
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121324013
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:13:40
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121340860
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:13:44
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121344689
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:15:34
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121534950
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:15:42
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121542049
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:19:07
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121907961
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:19:26
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121926738
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:19:36
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 121936354
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:24:32
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 122432247
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:24:39
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 122439049
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:28:24
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 122824533
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:28:33
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 122833124
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:28:56
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 122856844
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:29:07
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 122907110
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:31:42
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 123142674
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:41:08
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 124108779
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:41:35
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 124135062
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:46:34
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 124634805
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T12:48:01
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 124801616
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:40:04
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 144004538
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:40:47
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 144047242
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:40:55
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 144055994
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:41:22
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 144122044
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:42:49
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 144249727
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:58:29
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 145829195
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:58:55
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 145855576
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:59:35
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 145935530
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:59:37
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 145937650
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T14:59:39
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 145939630
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T15:00:13
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 150013207
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T15:58:14
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 155814561
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T16:04:02
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 160402739
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T16:30:26
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 163026071
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T16:36:37
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 163637395
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T16:41:10
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 164110557
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T16:49:53
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 164953025
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T16:58:35
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 165835001
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:23:14
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 172314252
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:26:06
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 172606373
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:26:33
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 172633602
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:27:14
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 172714381
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:27:27
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 172727281
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:28:31
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 172831745
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:29:00
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 172900296
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:36:16
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173616150
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:36:47
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173647829
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:36:54
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173654115
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:37:18
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173718420
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:37:36
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173736219
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:38:08
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173808570
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:38:37
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 173837336
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:41:52
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 174152646
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:42:13
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 174213827
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:42:42
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 174242687
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:43:25
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 174325631
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:44:38
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 174438667
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T17:44:48
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 174448294
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T18:09:16
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 180916904
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T21:17:08
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 211708234
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+
+
+
+Balance Enquiry Request:	 Request{method=GET, url=https://tajoicdev-bmsvb0wsgm8n-bo.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/QC_INTIALIZE/1.0/initialize, tag=null}
+TerminalID: TAJWEB:10.0.2.56
+DateAtClient: 2021-11-22T21:26:53
+ForwardEntityId: taj.com
+ForwardingEntityPassword: taj.com
+TransactionId: 212653395
+UserName: tajmanager
+Password: welcome
+authorization: Basic T2ljX3VzZXI6SW5ub3ZhY3hAMzIx
+cache-control: no-cache
+postman-token: e8909193-7507-788d-e5ef-0e8685463bb0
+

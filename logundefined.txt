@@ -1,0 +1,877 @@
+
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-27T07:14:42.754Z</wsu:Created>
+            <wsu:Expires>2021-10-27T07:19:42.754Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-27T07:14:42.754Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Wed Oct 27 12:44:42 IST 2021
+Future Booking Response: 
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+Wed Oct 27 12:49:45 IST 2021
+Find Person Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://xmlns.oracle.com/apps/cdm/foundation/parties/personService/applicationModule/types/" xmlns:typ1="http://xmlns.oracle.com/adf/svc/types/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <typ:findPerson>
+      <typ:findCriteria>
+        <typ1:fetchStart>0</typ1:fetchStart>
+        <typ1:fetchSize>-1</typ1:fetchSize>
+        <typ1:filter>
+          <typ1:conjunction>And</typ1:conjunction>
+          <typ1:group>
+            <typ1:conjunction>And</typ1:conjunction>
+            <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>Status</typ1:attribute>
+              <typ1:operator>=</typ1:operator>
+              <typ1:value>A</typ1:value>
+            </typ1:item>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>OriginalSystemReference</typ1:attribute>
+              <typ1:operator>EXISTS</typ1:operator>
+              <typ1:nested>
+                <typ1:group>
+                  <typ1:item>
+                    <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+                    <typ1:attribute>OrigSystemReference</typ1:attribute>
+                    <typ1:operator>=</typ1:operator>
+                    <typ1:value></typ1:value>
+                  </typ1:item>
+                </typ1:group>
+              </typ1:nested>
+            </typ1:item>
+          </typ1:group>
+        </typ1:filter>
+      </typ:findCriteria>
+    </typ:findPerson>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+
+Wed Oct 27 12:49:45 IST 2021
+Find Person Response: 
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><env:Body><env:Fault><faultcode>env:Server</faultcode><faultstring>Property [value] is non-nullable</faultstring></env:Fault></env:Body></env:Envelope>
+
+Wed Oct 27 12:49:47 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-27T07:31:22.284Z</wsu:Created>
+            <wsu:Expires>2021-10-27T07:36:22.300Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-27T07:31:22.284Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Wed Oct 27 13:01:22 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-27T08:03:07.688Z</wsu:Created>
+            <wsu:Expires>2021-10-27T08:08:07.689Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-27T08:03:07.688Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Wed Oct 27 13:33:07 IST 2021
+Future Booking Response: 
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+Wed Oct 27 13:38:07 IST 2021
+Find Person Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://xmlns.oracle.com/apps/cdm/foundation/parties/personService/applicationModule/types/" xmlns:typ1="http://xmlns.oracle.com/adf/svc/types/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <typ:findPerson>
+      <typ:findCriteria>
+        <typ1:fetchStart>0</typ1:fetchStart>
+        <typ1:fetchSize>-1</typ1:fetchSize>
+        <typ1:filter>
+          <typ1:conjunction>And</typ1:conjunction>
+          <typ1:group>
+            <typ1:conjunction>And</typ1:conjunction>
+            <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>Status</typ1:attribute>
+              <typ1:operator>=</typ1:operator>
+              <typ1:value>A</typ1:value>
+            </typ1:item>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>OriginalSystemReference</typ1:attribute>
+              <typ1:operator>EXISTS</typ1:operator>
+              <typ1:nested>
+                <typ1:group>
+                  <typ1:item>
+                    <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+                    <typ1:attribute>OrigSystemReference</typ1:attribute>
+                    <typ1:operator>=</typ1:operator>
+                    <typ1:value></typ1:value>
+                  </typ1:item>
+                </typ1:group>
+              </typ1:nested>
+            </typ1:item>
+          </typ1:group>
+        </typ1:filter>
+      </typ:findCriteria>
+    </typ:findPerson>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+
+Wed Oct 27 13:38:08 IST 2021
+Find Person Response: 
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><env:Body><env:Fault><faultcode>env:Server</faultcode><faultstring>Property [value] is non-nullable</faultstring></env:Fault></env:Body></env:Envelope>
+
+Wed Oct 27 13:38:09 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-27T10:26:07.005Z</wsu:Created>
+            <wsu:Expires>2021-10-27T10:31:07.006Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-27T10:26:07.005Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Wed Oct 27 15:56:07 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-27T10:51:02.721Z</wsu:Created>
+            <wsu:Expires>2021-10-27T10:56:02.722Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-27T10:51:02.721Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Wed Oct 27 16:21:02 IST 2021
+Future Booking Response: 
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+Wed Oct 27 16:26:03 IST 2021
+Find Person Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://xmlns.oracle.com/apps/cdm/foundation/parties/personService/applicationModule/types/" xmlns:typ1="http://xmlns.oracle.com/adf/svc/types/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <typ:findPerson>
+      <typ:findCriteria>
+        <typ1:fetchStart>0</typ1:fetchStart>
+        <typ1:fetchSize>-1</typ1:fetchSize>
+        <typ1:filter>
+          <typ1:conjunction>And</typ1:conjunction>
+          <typ1:group>
+            <typ1:conjunction>And</typ1:conjunction>
+            <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>Status</typ1:attribute>
+              <typ1:operator>=</typ1:operator>
+              <typ1:value>A</typ1:value>
+            </typ1:item>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>OriginalSystemReference</typ1:attribute>
+              <typ1:operator>EXISTS</typ1:operator>
+              <typ1:nested>
+                <typ1:group>
+                  <typ1:item>
+                    <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+                    <typ1:attribute>OrigSystemReference</typ1:attribute>
+                    <typ1:operator>=</typ1:operator>
+                    <typ1:value></typ1:value>
+                  </typ1:item>
+                </typ1:group>
+              </typ1:nested>
+            </typ1:item>
+          </typ1:group>
+        </typ1:filter>
+      </typ:findCriteria>
+    </typ:findPerson>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+
+Wed Oct 27 16:26:03 IST 2021
+Find Person Response: 
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><env:Body><env:Fault><faultcode>env:Server</faultcode><faultstring>Property [value] is non-nullable</faultstring></env:Fault></env:Body></env:Envelope>
+
+Wed Oct 27 16:26:04 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-27T10:59:55.363Z</wsu:Created>
+            <wsu:Expires>2021-10-27T11:04:55.363Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-27T10:59:55.363Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Wed Oct 27 16:29:55 IST 2021
+Future Booking Response: 
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+Wed Oct 27 16:34:55 IST 2021
+Find Person Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://xmlns.oracle.com/apps/cdm/foundation/parties/personService/applicationModule/types/" xmlns:typ1="http://xmlns.oracle.com/adf/svc/types/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <typ:findPerson>
+      <typ:findCriteria>
+        <typ1:fetchStart>0</typ1:fetchStart>
+        <typ1:fetchSize>-1</typ1:fetchSize>
+        <typ1:filter>
+          <typ1:conjunction>And</typ1:conjunction>
+          <typ1:group>
+            <typ1:conjunction>And</typ1:conjunction>
+            <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>Status</typ1:attribute>
+              <typ1:operator>=</typ1:operator>
+              <typ1:value>A</typ1:value>
+            </typ1:item>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>OriginalSystemReference</typ1:attribute>
+              <typ1:operator>EXISTS</typ1:operator>
+              <typ1:nested>
+                <typ1:group>
+                  <typ1:item>
+                    <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+                    <typ1:attribute>OrigSystemReference</typ1:attribute>
+                    <typ1:operator>=</typ1:operator>
+                    <typ1:value></typ1:value>
+                  </typ1:item>
+                </typ1:group>
+              </typ1:nested>
+            </typ1:item>
+          </typ1:group>
+        </typ1:filter>
+      </typ:findCriteria>
+    </typ:findPerson>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+
+Wed Oct 27 16:34:55 IST 2021
+Find Person Response: 
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><env:Body><env:Fault><faultcode>env:Server</faultcode><faultstring>Property [value] is non-nullable</faultstring></env:Fault></env:Body></env:Envelope>
+
+Wed Oct 27 16:34:56 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-27T13:32:52.397Z</wsu:Created>
+            <wsu:Expires>2021-10-27T13:37:52.397Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-27T13:32:52.397Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Wed Oct 27 19:02:52 IST 2021
+Future Booking Response: 
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+Wed Oct 27 19:07:52 IST 2021
+Find Person Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://xmlns.oracle.com/apps/cdm/foundation/parties/personService/applicationModule/types/" xmlns:typ1="http://xmlns.oracle.com/adf/svc/types/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <typ:findPerson>
+      <typ:findCriteria>
+        <typ1:fetchStart>0</typ1:fetchStart>
+        <typ1:fetchSize>-1</typ1:fetchSize>
+        <typ1:filter>
+          <typ1:conjunction>And</typ1:conjunction>
+          <typ1:group>
+            <typ1:conjunction>And</typ1:conjunction>
+            <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>Status</typ1:attribute>
+              <typ1:operator>=</typ1:operator>
+              <typ1:value>A</typ1:value>
+            </typ1:item>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>OriginalSystemReference</typ1:attribute>
+              <typ1:operator>EXISTS</typ1:operator>
+              <typ1:nested>
+                <typ1:group>
+                  <typ1:item>
+                    <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+                    <typ1:attribute>OrigSystemReference</typ1:attribute>
+                    <typ1:operator>=</typ1:operator>
+                    <typ1:value></typ1:value>
+                  </typ1:item>
+                </typ1:group>
+              </typ1:nested>
+            </typ1:item>
+          </typ1:group>
+        </typ1:filter>
+      </typ:findCriteria>
+    </typ:findPerson>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+
+Wed Oct 27 19:07:53 IST 2021
+Find Person Response: 
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><env:Body><env:Fault><faultcode>env:Server</faultcode><faultstring>Property [value] is non-nullable</faultstring></env:Fault></env:Body></env:Envelope>
+
+Wed Oct 27 19:07:54 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-27T13:52:18.475Z</wsu:Created>
+            <wsu:Expires>2021-10-27T13:57:18.475Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-27T13:52:18.475Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Wed Oct 27 19:23:46 IST 2021
+Future Booking Response: 
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+Wed Oct 27 19:28:46 IST 2021
+Find Person Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://xmlns.oracle.com/apps/cdm/foundation/parties/personService/applicationModule/types/" xmlns:typ1="http://xmlns.oracle.com/adf/svc/types/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <typ:findPerson>
+      <typ:findCriteria>
+        <typ1:fetchStart>0</typ1:fetchStart>
+        <typ1:fetchSize>-1</typ1:fetchSize>
+        <typ1:filter>
+          <typ1:conjunction>And</typ1:conjunction>
+          <typ1:group>
+            <typ1:conjunction>And</typ1:conjunction>
+            <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>Status</typ1:attribute>
+              <typ1:operator>=</typ1:operator>
+              <typ1:value>A</typ1:value>
+            </typ1:item>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>OriginalSystemReference</typ1:attribute>
+              <typ1:operator>EXISTS</typ1:operator>
+              <typ1:nested>
+                <typ1:group>
+                  <typ1:item>
+                    <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+                    <typ1:attribute>OrigSystemReference</typ1:attribute>
+                    <typ1:operator>=</typ1:operator>
+                    <typ1:value></typ1:value>
+                  </typ1:item>
+                </typ1:group>
+              </typ1:nested>
+            </typ1:item>
+          </typ1:group>
+        </typ1:filter>
+      </typ:findCriteria>
+    </typ:findPerson>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+
+Wed Oct 27 19:28:46 IST 2021
+Find Person Response: 
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><env:Body><env:Fault><faultcode>env:Server</faultcode><faultstring>Property [value] is non-nullable</faultstring></env:Fault></env:Body></env:Envelope>
+
+Wed Oct 27 19:28:48 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-28T11:31:11.920Z</wsu:Created>
+            <wsu:Expires>2021-10-28T11:36:11.920Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-28T11:31:11.920Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Thu Oct 28 17:01:11 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-28T11:41:24.847Z</wsu:Created>
+            <wsu:Expires>2021-10-28T11:46:24.848Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-28T11:41:24.847Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Thu Oct 28 17:11:33 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-28T15:06:09.097Z</wsu:Created>
+            <wsu:Expires>2021-10-28T15:11:09.097Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-28T15:06:09.097Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Thu Oct 28 20:36:09 IST 2021
+Future Booking Response: 
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+Thu Oct 28 20:41:09 IST 2021
+Find Person Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://xmlns.oracle.com/apps/cdm/foundation/parties/personService/applicationModule/types/" xmlns:typ1="http://xmlns.oracle.com/adf/svc/types/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <typ:findPerson>
+      <typ:findCriteria>
+        <typ1:fetchStart>0</typ1:fetchStart>
+        <typ1:fetchSize>-1</typ1:fetchSize>
+        <typ1:filter>
+          <typ1:conjunction>And</typ1:conjunction>
+          <typ1:group>
+            <typ1:conjunction>And</typ1:conjunction>
+            <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>Status</typ1:attribute>
+              <typ1:operator>=</typ1:operator>
+              <typ1:value>A</typ1:value>
+            </typ1:item>
+            <typ1:item>
+              <typ1:conjunction>And</typ1:conjunction>
+              <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+              <typ1:attribute>OriginalSystemReference</typ1:attribute>
+              <typ1:operator>EXISTS</typ1:operator>
+              <typ1:nested>
+                <typ1:group>
+                  <typ1:item>
+                    <typ1:upperCaseCompare>false</typ1:upperCaseCompare>
+                    <typ1:attribute>OrigSystemReference</typ1:attribute>
+                    <typ1:operator>=</typ1:operator>
+                    <typ1:value></typ1:value>
+                  </typ1:item>
+                </typ1:group>
+              </typ1:nested>
+            </typ1:item>
+          </typ1:group>
+        </typ1:filter>
+      </typ:findCriteria>
+    </typ:findPerson>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+
+Thu Oct 28 20:41:09 IST 2021
+Find Person Response: 
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><env:Body><env:Fault><faultcode>env:Server</faultcode><faultstring>Property [value] is non-nullable</faultstring></env:Fault></env:Body></env:Envelope>
+
+Thu Oct 28 20:41:10 IST 2021
+Future Booking Request payload: 
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:core="http://webservices.micros.com/og/4.3/Core/" xmlns:res="http://webservices.micros.com/ows/5.1/Reservation.wsdl" xmlns:hot="http://webservices.micros.com/og/4.3/HotelCommon/" xmlns:res1="http://webservices.micros.com/og/4.3/Reservation/" xmlns:com="http://webservices.micros.com/og/4.3/Common/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsu:Timestamp wsu:Id="TS-C2A3BE2EFF54CC56C9155309622850627">
+            <wsu:Created>2021-10-28T17:52:19.596Z</wsu:Created>
+            <wsu:Expires>2021-10-28T17:57:19.598Z</wsu:Expires>
+         </wsu:Timestamp>
+         <wsse:UsernameToken wsu:Id="UsernameToken-C2A3BE2EFF54CC56C9155309622492126">
+            <wsse:Username>oic_user</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">Innovacx@321</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">U07gU1zpL1QcujIh+uEAOQ==</wsse:Nonce>
+            <wsu:Created>2021-10-28T17:52:19.596Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+      <core:OGHeader
+            xmlns="http://webservices.micros.com/og/4.3/Core/" transactionID="3297907325" timeStamp="2009-03-08T09:15:27.568125-05:00" primaryLangID="E">
+            <core:Origin entityID="KIOSK" systemType="WEB" />
+            <core:Destination entityID="KIOSK" systemType="PMS" />
+            <core:Authentication>
+                <core:UserCredentials>
+                    <core:UserName>KIOSK</core:UserName>
+                    <core:UserPassword>$$$KIOSK$$</core:UserPassword>
+                    <core:Domain>undefined</core:Domain>
+                </core:UserCredentials>
+            </core:Authentication>
+        </core:OGHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <res:FutureBookingSummaryRequest summaryOnly="false">
+         <res:AdditionalFilters>
+            <res1:ResvNameId type="INTERNAL" source="RESVID">undefined</res1:ResvNameId>
+         </res:AdditionalFilters>
+      </res:FutureBookingSummaryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+Thu Oct 28 23:22:19 IST 2021

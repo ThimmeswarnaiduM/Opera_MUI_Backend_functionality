@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/NewInvoices.jsp=UTF-8
+encoding//src/OutstandingBalanceServlet.java=UTF-8
+encoding//src/attributes/AesCryptUtil.java=UTF-8
+encoding//src/attributes/DecryptyAES.java=UTF-8
+encoding//src/config/Configuration.java=UTF-8
+encoding//src/config/GetProfileData.java=UTF-8
+encoding//src/config/GetReservationData.java=UTF-8
