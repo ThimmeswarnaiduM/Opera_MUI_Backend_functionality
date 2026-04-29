@@ -149,7 +149,7 @@ public class GetReservationData implements Runnable {
         WSDL = WSDL+ReservationID;
         Response response = null;
         resp = null;
-
+       
         try {
 
             response = Configuration.getReservationData(WSDL,OWSProperty);
@@ -180,6 +180,7 @@ public class GetReservationData implements Runnable {
         } catch (JSONException e) {
             e.printStackTrace();
         }
+        
         if(result.get("code").equalsIgnoreCase("200") && result.get("message").equalsIgnoreCase("OK") ) {
             System.out.println("SuccessK");
             try {
@@ -376,11 +377,16 @@ public class GetReservationData implements Runnable {
             try {
                 CheckInDate = reservationJson.getJSONObject("reservationFolioInformation").getJSONObject("reservationInfo").getJSONObject("roomStay").getString("arrivalDate");
                 CheckOutDate = reservationJson.getJSONObject("reservationFolioInformation").getJSONObject("reservationInfo").getJSONObject("roomStay").getString("departureDate");
-
+                String insertDate = reservationJson.getJSONObject("reservationFolioInformation").getJSONObject("reservationInfo").getString("createDateTime");// Booking Date
                 SimpleDateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy");
                 DateFormat format = new SimpleDateFormat("yyyy-MM-dd");
                 Date d1 = format.parse(CheckInDate.substring(0, 10));
                 Date d2 = format.parse(CheckOutDate.substring(0, 10));
+               
+                Date d3 = format.parse(insertDate.substring(0, 10));
+                bookingDate = d3;
+                BOOKINGDATE = dateFormat.format(d3);
+                System.out.println("BOOKINGDATE: "+BOOKINGDATE);
 
                 CInDate = d1;
                 COutDate = d2;

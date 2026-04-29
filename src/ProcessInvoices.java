@@ -403,14 +403,19 @@ public class ProcessInvoices extends HttpServlet {
 			{
 				
 			}
-			String PropertyCode = getPropertyCode(GlobalPropertyCode);
-			System.out.println("Siebel Property Code: \t" + PropertyCode);
-			if(PropertyCode != null || !PropertyCode.equalsIgnoreCase("") || !PropertyCode.equalsIgnoreCase("null"))
+			//String PropertyCode = getPropertyCode(GlobalPropertyCode);
+			//System.out.println("Siebel Property Code: \t" + PropertyCode);
+			if(GlobalPropertyCode != null || !GlobalPropertyCode.equalsIgnoreCase("") || !GlobalPropertyCode.equalsIgnoreCase("null"))
 			{
 				/*String confNumber = request.getParameter("confirmationNumberDis");
 				String arrival = request.getParameter("arrivalDis");
+				
+				
 				String departure = request.getParameter("DepartureDis");*/
 				String confNumber = processInvoicesData.ConfirmationNo;
+				String KJhgfh=request.getParameter("GlobalPropertyCode");
+				System.out.println("KJhgfh:"+KJhgfh);
+				
 				String arrival = convertDateFormat(processInvoicesData.CheckInDate);
 				String departure = convertDateFormat(processInvoicesData.CheckOutDate);
 				payUsingPoint(request, response, processInvoicesData.URLReservationNumber, GlobalPropertyCode, processInvoicesData.TransactionComments, processInvoicesData.PaymentType, processInvoicesData.PaymentTransID, processInvoicesData.RegisterNumber, processInvoicesData.TotalAmount, localMemberNumber, processInvoicesData.RedeemPoints, processInvoicesData.PointsRedeemedType, EnteredOTP, confNumber, arrival, departure);
@@ -451,7 +456,7 @@ try{
 	
 	private void payUsingPoint(HttpServletRequest request, HttpServletResponse response,String GResvNumber, String GlobalPropertyCode, String TransactionComments, String PaymentType, String PaymentTransID, String RegisterNumber, String TotalAmount, String EnrollNumber_c, String RedeemPoints, String PointsRedeemedType, String EnteredOTP, String confNumber, String arrival, String departure)
 	{
-	
+	System.out.println("GlobalPropertyCode:"+GlobalPropertyCode);
 		try
 		{
 			if(GResvNumber == null || GlobalPropertyCode == null || PaymentType == null || RegisterNumber == null || TotalAmount == null || EnrollNumber_c == null || RedeemPoints == null ||  PointsRedeemedType == null || GResvNumber.equals("") || GlobalPropertyCode.equals("") || PaymentType.equals("") || RegisterNumber.equals("") || TotalAmount.equals("") || EnrollNumber_c.equals("") || RedeemPoints.equals("") ||  PointsRedeemedType.equals("") )
@@ -587,10 +592,10 @@ try{
 		Response resp = client.newCall(req).execute();
 		*/
 			GetHotelsData hotelsData = new GetHotelsData();
-			String PropertyCode = hotelsData.getProperty(request.getParameter("GlobalPropertyCode"));
-			String s=GetHotelsData.getHotel(GlobalPropertyCode);
+			//String PropertyCode = hotelsData.getProperty(request.getParameter("GlobalPropertyCode"));
+			//String s=GetHotelsData.getHotel(GlobalPropertyCode);
             
-            String GlobalOrionCode = HashMapData.mapOrionCode.get(GlobalPropertyCode);                                       
+            //String GlobalOrionCode = HashMapData.mapOrionCode.get(GlobalPropertyCode);                                       
 			
 			
 			
@@ -600,7 +605,7 @@ try{
 		Request req = new Request.Builder()
 		  .url(Configuration.PayUsingPointsURL)
 		  .method("POST", body)
-		  .addHeader("store_id", GlobalOrionCode)
+		  .addHeader("store_id", GlobalPropertyCode)
 		  .addHeader("Authorization", Configuration.IcsBasicAuth)
 		  .addHeader("Content-Type", "application/json")
 		  .build();

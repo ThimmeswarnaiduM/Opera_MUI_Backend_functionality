@@ -370,7 +370,7 @@ public class URLConfig {
 		hashMap.put("CCUTK","CentralOCI");
 		hashMap.put("TEZVT","CentralOCI");
 		hashMap.put("JSAGP","CentralOCI");
-		hashMap.put("JAISR","CentralOCI");
+	
 		hashMap.put("TIRBT","CentralOCI");
 		hashMap.put("COKSM","CentralOCI");
 		hashMap.put("IXWVJ","CentralOCI");
@@ -541,6 +541,21 @@ public class URLConfig {
 		hashMap.put("BDQGV","OperaCloud");
 		hashMap.put("AMDGK","OperaCloud");
 		hashMap.put("DEDTH","OperaCloud");
+		hashMap.put("DELVV","OperaCloud");
+		hashMap.put("KNUIS","OperaCloud");
+		hashMap.put("UDRPJ","OperaCloud");
+		hashMap.put("JAIBR","OperaCloud");
+		hashMap.put("JLRSB","OperaCloud");
+		hashMap.put("VNSBR","OperaCloud");
+		hashMap.put("PGHBR","OperaCloud");
+		hashMap.put("UDRPJ","OperaCloud");
+		hashMap.put("GOXBP","OperaCloud");
+		hashMap.put("DHMBD","OperaCloud");
+		hashMap.put("JDHBL","OperaCloud");
+		hashMap.put("IXYGK","OperaCloud");
+		hashMap.put("BBITP","OperaCloud");
+		hashMap.put("JAISR","OperaCloud");
+		
 		
 		
 		

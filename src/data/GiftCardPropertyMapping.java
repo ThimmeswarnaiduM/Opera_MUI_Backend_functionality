@@ -203,6 +203,19 @@ public class GiftCardPropertyMapping {
         HashMapData.mapGcHotelsMap.put("BDQGV","Ginger Vadodara, Alkapuri");
         HashMapData.mapGcHotelsMap.put("AMDGK","Ginger Kheda, Dholka - Kheda Highway");
         HashMapData.mapGcHotelsMap.put("DEDTH","Tree Of Life Haridwar, Bahadrabad");
+        HashMapData.mapGcHotelsMap.put("KNUIS","Eternity Kanpur IHCL SeleQtions");
+        HashMapData.mapGcHotelsMap.put("DELVV","Vivanta Vrindavan");
+        HashMapData.mapGcHotelsMap.put("UDRPJ","Brij Pola,Jawai");
+        HashMapData.mapGcHotelsMap.put("JAIBR","Brij Bageecha, Kukas");
+        HashMapData.mapGcHotelsMap.put("JLRSB","Brij Sone Bagh, Bandhavgarh");
+        HashMapData.mapGcHotelsMap.put("VNSBR","BrijRama Palace, Varanasi");
+        HashMapData.mapGcHotelsMap.put("PGHBR","Brij Atmanya, Bhowali");
+        HashMapData.mapGcHotelsMap.put("UDRPJ","Brij Pola, Jawai");
+        HashMapData.mapGcHotelsMap.put("GOXBP","Brij Paraiso Saligao, Goa");
+        HashMapData.mapGcHotelsMap.put("DHMBD","Brij Anayra, Dharamshala");
+        HashMapData.mapGcHotelsMap.put("JDHBL","Brij Lakshmansagar, Pali");
+        HashMapData.mapGcHotelsMap.put("IXYGK","Gateway Kandla Gandhidham");
+        
         
         
         

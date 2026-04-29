@@ -244,58 +244,136 @@ public class GiftCardBalanceEnquiry extends HttpServlet {
 				//response.getWriter().write("Balance Enquiry Response: \n" + Resp);
 				
 				JSONObject object = new JSONObject(Resp);
-				
+				String errorMessage = object.optString("ResponseMessage", "Please try again later");
 				String isSuccess = object.getString("ResponseCode");
 				
+//				if(isSuccess.equals("0"))
+//				{
+//					String Bal = object.getString("Amount");
+//					String cardType = object.getString("CardType");
+//					request.getSession().setAttribute("cardType", cardType);
+//					
+//					//String Balance = Bal.substring(0, Bal.length()-2);
+//					
+//					String Balance = Bal;
+//					
+//					System.out.println("Available Balance: \t" + Balance);
+//					
+//					response.getWriter().write("Balance: " + Balance);
+//					
+//					return;
+//				}
 				if(isSuccess.equals("0"))
 				{
-					String Bal = object.getString("Amount");
-					
-					//String Balance = Bal.substring(0, Bal.length()-2);
-					
-					String Balance = Bal;
-					
-					System.out.println("Available Balance: \t" + Balance);
-					
-					response.getWriter().write("Balance: " + Balance);
-					
-					return;
-				} else if(isSuccess.equals("10004"))
+				    String Bal = object.getString("Amount");
+				    String cardType = object.getString("CardType");
+
+				    // Store in session (optional)
+				    request.getSession().setAttribute("cardType", cardType);
+
+				    String Balance = Bal;
+
+				    System.out.println("Available Balance: " + Balance);
+				    System.out.println("Card Type: " + cardType);
+
+				   
+				    JSONObject res = new JSONObject();
+				    res.put("balance", Balance);
+				    res.put("cardType", cardType);
+
+				    response.setContentType("application/json");
+				    response.getWriter().write(res.toString());
+
+				    return;
+				}
+				else if(isSuccess.equals("10004"))
 				{
-					response.getWriter().write("Invalid Card Number");
-					return;
+//					response.getWriter().write("Invalid Card Number");
+//					return;
+					JSONObject res = new JSONObject();
+				    res.put("status", "error");
+				    res.put("code", isSuccess);
+				    res.put("message", errorMessage);
+
+				    response.setContentType("application/json");
+				    response.getWriter().write(res.toString());
+				    return;
 					
 				} else if(isSuccess.equals("10136"))
 				{
-					response.getWriter().write("Card Disabled");
-					return;
+					JSONObject res = new JSONObject();
+				    res.put("status", "error");
+				    res.put("code", isSuccess);
+				    res.put("message", errorMessage);
+
+				    response.setContentType("application/json");
+				    response.getWriter().write(res.toString());
+				    return;
 					
 				} else if(isSuccess.equals("10001"))
 				{
-					response.getWriter().write("Card Expired");
-					return;
+//					response.getWriter().write("Card Expired");
+//					return;
+					JSONObject res = new JSONObject();
+				    res.put("status", "error");
+				    res.put("code", isSuccess);
+				    res.put("message", errorMessage);
+
+				    response.setContentType("application/json");
+				    response.getWriter().write(res.toString());
+				    return;
 					
 				} else if(isSuccess.equals("10002"))
 				{
-					response.getWriter().write("Card Deactivated");
-					return;
+//					response.getWriter().write("Card Deactivated");
+//					return;
+					JSONObject res = new JSONObject();
+				    res.put("status", "error");
+				    res.put("code", isSuccess);
+				    res.put("message", errorMessage);
+
+				    response.setContentType("application/json");
+				    response.getWriter().write(res.toString());
+				    return;
 					
 				} else if(isSuccess.equals("10029"))
 				{
-					response.getWriter().write("Card Not Active");
-					return;
+//					response.getWriter().write("Card Not Active");
+//					return;
+					JSONObject res = new JSONObject();
+				    res.put("status", "error");
+				    res.put("code", isSuccess);
+				    res.put("message", errorMessage);
+
+				    response.setContentType("application/json");
+				    response.getWriter().write(res.toString());
+				    return;
 					
 				} else if(isSuccess.equals("10064"))
 				{
 					//response.getWriter().write("Invalid batch number");
-					System.out.println("Invalid batch number");
-					HashMapData.mapBatchNumber.put("BatchNumber", "null");
-					performOperation(request, response);
-					return;
+//					System.out.println("Invalid batch number");
+//					HashMapData.mapBatchNumber.put("BatchNumber", "null");
+//					performOperation(request, response);
+//					return;
+					JSONObject res = new JSONObject();
+				    res.put("status", "error");
+				    res.put("code", isSuccess);
+				    res.put("message", errorMessage);
+
+				    response.setContentType("application/json");
+				    response.getWriter().write(res.toString());
+				    return;
 				} else
 				{
-					response.getWriter().write("Please try again later");
-					return;
+					JSONObject res = new JSONObject();
+				    res.put("status", "error");
+				    res.put("code", isSuccess);
+				    res.put("message", errorMessage);
+
+				    response.setContentType("application/json");
+				    response.getWriter().write(res.toString());
+				    return;
 				}
 				
 			}catch(Exception e)

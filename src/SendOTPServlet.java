@@ -41,11 +41,12 @@ public class SendOTPServlet extends HttpServlet {
 		
 		try {
 			GlobalReservationNumber = request.getParameter("GlobalReservationNumber");
+			String GlobalOrionCode=request.getParameter("GlobalPropertyCode");
 			
 			String TcpCustomerHash = request.getParameter("TcpCustomerHash");
 			String PointsToRedeem = request.getParameter("PointsToRedeem");
 			
-			JSONObject resp = processRequest(request, response, TcpCustomerHash, PointsToRedeem, GlobalReservationNumber);
+			JSONObject resp = processRequest(request, response, TcpCustomerHash, PointsToRedeem, GlobalReservationNumber,GlobalOrionCode);
 			
 			response.getWriter().write(resp.toString());
 			
@@ -64,13 +65,13 @@ public class SendOTPServlet extends HttpServlet {
 	
 	
 	
-	private JSONObject processRequest(HttpServletRequest request, HttpServletResponse response, String TcpCustomerHash, String PointsToRedeem, String GlobalResvNumber)
+	private JSONObject processRequest(HttpServletRequest request, HttpServletResponse response, String TcpCustomerHash, String PointsToRedeem, String GlobalResvNumber,String GlobalOrionCode)
 	{
 		
 		JSONObject jsonString = new JSONObject();
 		GetHotelsData hotelsData = new GetHotelsData();
-		String PropertyCode = hotelsData.getProperty(request.getParameter("GlobalPropertyCode"));
-		String GlobalOrionCode = HashMapData.mapOrionCode.get(request.getParameter("GlobalPropertyCode"));
+		//GlobalOrionCodString PropertyCode = hotelsData.getProperty(request.getParameter("GlobalPropertyCode"));
+		//String GlobalOrionCodes = HashMapData.mapOrionCode.get(request.getParameter("GlobalPropertyCode"));
 //		GetProfileData profileData = HashMapData.mapProfileData.get(GlobalResvNumber);
 //		String partyId = profileData.PartyId;
 		

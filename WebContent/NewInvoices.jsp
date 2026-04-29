@@ -2279,69 +2279,59 @@ $.alert(msg);
    
    function CheckGCBalance()
    {
-	   
-   	var CardNumber = document.getElementById('txtCardNo').value;
-   	var CardPin = document.getElementById('txtCardPin').value;
-   	var Type;
-    var voucherNumber="";
-    /* if(CardNumber.indexOf("EP-") > -1){
- 	   MemberType="Epicure";
- 	   voucherNumber=CardNumber;
- 	   
-    }	
-    else if (CardNumber.indexOf("CH-") > -1){
- 	   MemberType="Chambers";
- 	   voucherNumber=CardNumber;	
-    }           
-    if(!voucherNumber==""){
-    	Type="GRAVTY";
-     }
-    
-    else{
-    	Type="QGC";
-    } */
-    Type="QGC";
-    	if(CardNumber == null || CardNumber == "")
-       	{
-       		$.alert("Enter Card Number to Proceed");
-       		return;
-       	} else
-       	{
-       	
-        	document.getElementById('loadingUI').style.display = "block";
-        	
-        	$(document).ready(function() {
-                $.ajax({
-                    url : 'GiftCardBalanceEnquiry',
-                    cache: false,
-                    data: {
-                    	Type:Type,
-                    	CardNumber: CardNumber,
-                    	CardPin: CardPin,
-                    	GlobalReservationNumber:'<%=request.getParameter("ReservId")%>'
-                    },
-                    success : function(responseText) {
-       
-                    	document.getElementById('loadingUI').style.display = "none";
-                    	
-                    	$("#lblGCBalance").empty();
-                        $("#lblGCBalance").append("&nbsp;&nbsp;&nbsp;"+responseText);
-                        
-                    },
-                    error: function(errMsg){
-                    	document.getElementById('DivLoading').style.display = "none";
-                    	document.getElementById('loadingUI').style.display = "none";
-                    	//$.alert("An error occured: " + errMsg.status + " " + errMsg.statusText);
-                    },
-                    dataType: "text"
-                });
-            });
-       	} 	
-    
-      	
-       
+       var CardNumber = document.getElementById('txtCardNo').value;
+       var CardPin = document.getElementById('txtCardPin').value;
+       var Type = "QGC";
+
+       if(CardNumber == null || CardNumber == "")
+       {
+           $.alert("Enter Card Number to Proceed");
+           return;
+       }
+
+       document.getElementById('loadingUI').style.display = "block";
+
+       $.ajax({
+           url : 'GiftCardBalanceEnquiry',
+           cache: false,
+           data: {
+               Type: Type,
+               CardNumber: CardNumber,
+               CardPin: CardPin,
+               GlobalReservationNumber:'<%=request.getParameter("ReservId")%>'
+           },
+
+           success: function(response)
+           {
+               document.getElementById('loadingUI').style.display = "none";
+
+              
+               if(response.status === "error") {
+                   $.alert(response.message);   // dynamic error from backend
+                   return;
+               }
+
+             
+               var balance = response.balance;
+               var cardType = response.cardType;
+
+               $("#lblGCBalance").text(balance);
+               $("#rowCardType").show();
+               $("#lblCardType").text(cardType);
+
+               $("#txtCardAmount").val(balance);
+           },
+
+           error: function()
+           {
+               document.getElementById('loadingUI').style.display = "none";
+               $.alert("Error while fetching balance");
+           },
+
+           // 🔥 VERY IMPORTANT
+           dataType: "json"
+       });
    }
-   
 </script>
 
 
@@ -4396,27 +4386,37 @@ try{
                                         <input class="text-center" type="password" id="txtCardPin" style="border-radius:10px; border:0px; max-height:1; height:30px; font-weight:bold; width: 100%" />
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td class="pull-right" style="margin-right:20px;">
-                                        <label>Amount to pay</label>
-                                    </td>
-                                    <td>
-                                        <input class="text-center" type="text" id="txtCardAmount" style="border-radius:10px; border:0px; max-height:1; height:30px; font-weight:bold; width: 100%" />
-                                    </td>
-                                </tr>
+                               <tr>
+    <td class="pull-right" style="margin-right:20px;">
+        <label>Amount to pay</label>
+    </td>
+    <td>
+        <input class="text-center" type="text" id="txtCardAmount"
+               style="border-radius:10px; border:0px; height:30px; font-weight:bold; width: 100%" />
+    </td>
+</tr>
+
+<tr id="rowCardType" style="display:none;">
+    <td class="pull-right" style="margin-right:20px; padding-top:30px">
+        <label>Card Type</label>
+    </td>
+    <td>
+        <label id="lblCardType" style=" font-weight:bold;  padding-top:30px"></label>
+    </td>
+</tr>
+                                
                             </table>
                             <br />
 
 
-
-
+                               
 
                             <input type="button" class="btn btn-primary" name="btnSubmit" value="Submit" onclick="Invoices()" style="margin-right: 20px;" />
-
+                               
                             <input type="button" class="btn btn-info" name="btnCheckBal" value="Check Balance" onclick="CheckGCBalance()" />
 
-                            <label id="lblGCBalance"></label>
-
+                                <label id="lblGCBalance"></label>
+                              
                             <br />
                             <br />
 

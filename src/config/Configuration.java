@@ -893,7 +893,7 @@ public class Configuration {
 		hotelList.put("CCUTK","CentralOCI");
 		hotelList.put("TEZVT","CentralOCI");
 		hotelList.put("JSAGP","CentralOCI");
-		hotelList.put("JAISR","CentralOCI");
+	
 		hotelList.put("TIRBT","CentralOCI");
 		hotelList.put("COKSM","CentralOCI");
 		hotelList.put("IXWVJ","CentralOCI");
@@ -1050,6 +1050,20 @@ public class Configuration {
 		hotelList.put("BDQGV","Oracle Cloud Central");
 		hotelList.put("AMDGK","Oracle Cloud Central");
 		hotelList.put("DEDTH","Oracle Cloud Central");
+		hotelList.put("KNUIS","Oracle Cloud Central");
+		hotelList.put("DELVV","Oracle Cloud Central");
+		hotelList.put("UDRPJ","Oracle Cloud Central");
+		hotelList.put("JAIBR","Oracle Cloud Central");
+		hotelList.put("JLRSB","Oracle Cloud Central");
+		hotelList.put("VNSBR","Oracle Cloud Central");
+		hotelList.put("PGHBR","Oracle Cloud Central");
+		hotelList.put("UDRPJ","Oracle Cloud Central");
+		hotelList.put("GOXBP","Oracle Cloud Central");
+		hotelList.put("DHMBD","Oracle Cloud Central");
+		hotelList.put("JDHBL","Oracle Cloud Central");
+		hotelList.put("IXYGK","Oracle Cloud Central");
+		hotelList.put("JAISR","Oracle Cloud Central");
+		
 		
 	
 		
@@ -1262,6 +1276,10 @@ public class Configuration {
 		GCHotel.put("PBHGR", "PBHGR");
 		GCHotel.put("DEDGD", "DEDGD");
 		GCHotel.put("MAAWM", "MAAWM");
+		GCHotel.put("DELVV", "DELVV");
+		GCHotel.put("KNUIS", "KNUIS");
+		GCHotel.put("IXYGK", "IXYGK");
+		
 //		GCHotel.put("JAIGA", "JAIGA");
 //		GCHotel.put("BHUGB", "BHUGB");
 //		GCHotel.put("JAIGR", "JAIGR");
